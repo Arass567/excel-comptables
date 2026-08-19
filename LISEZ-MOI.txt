@@ -1,0 +1,43 @@
+EXCEL POUR COMPTABLES — FICHIERS D'ACCOMPAGNEMENT
+==================================================
+Ces fichiers accompagnent le livre « Excel pour Comptables : 150 Formules
+et Modèles Prêts à l'Emploi » (Assani Raffion, édition 2026).
+
+CONTENU
+-------
+00_Classeur_de_reference_150_formules.xlsx
+    Les 150 formules du livre (annexe A), filtrables par catégorie, avec
+    syntaxe, description et chapitre. Seconde feuille : glossaire des
+    146 fonctions français / anglais (annexe C).
+
+01_Plan_de_tresorerie_previsionnel.xlsx      (chapitre 15.1)
+02_Balance_agee_clients.xlsx                 (chapitre 15.2)
+03_Rapprochement_bancaire_multi_comptes.xlsx (chapitre 15.3)
+04_Immobilisations_et_amortissements.xlsx    (chapitre 15.4)
+05_Bilan_et_compte_de_resultat.xlsx          (chapitre 15.5)
+
+Chaque modèle reprend exactement la structure décrite dans le chapitre
+correspondant (mêmes feuilles, mêmes cellules, mêmes formules), avec un
+jeu de données fictif mais réaliste pour que vous puissiez l'explorer
+immédiatement. Remplacez les données par les vôtres ; les formules
+s'adaptent.
+
+REMARQUE SUR LA LANGUE DES FORMULES
+-----------------------------------
+Un fichier Excel stocke toujours ses formules en anglais ; c'est Excel
+qui les affiche dans la langue de votre installation. Si votre Excel est
+en français, vous verrez SOMME, SI, RECHERCHEX — exactement comme dans le
+livre. Si vous voyez SUM, IF, XLOOKUP, votre Excel est en anglais : le
+glossaire du classeur 00 donne la correspondance.
+
+Le séparateur d'arguments suit aussi votre installation : « ; » en
+français, « , » en anglais.
+
+COMPATIBILITÉ
+-------------
+Excel 2016, 2019, 2021, Microsoft 365. Le modèle 02 utilise RECHERCHEX /
+XLOOKUP nulle part ; tous les modèles s'ouvrent aussi dans LibreOffice
+Calc (ils y ont été vérifiés).
+
+Les dates de retard du modèle 02 sont calculées par rapport à AUJOURDHUI()
+(feuille Params) : elles changent donc chaque jour, c'est normal.
