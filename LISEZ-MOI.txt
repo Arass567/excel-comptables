@@ -12,12 +12,13 @@ CONTENU
 
 01_Plan_de_tresorerie_previsionnel.xlsx      (chapitre 15.1)
 02_Balance_agee_clients.xlsx                 (chapitre 15.2)
-03_Rapprochement_bancaire_multi_comptes.xlsx (chapitre 15.3)
-04_Immobilisations_et_amortissements.xlsx    (chapitre 15.4)
 05_Bilan_et_compte_de_resultat.xlsx          (chapitre 15.5)
 
-Chaque modèle reprend exactement la structure décrite dans le chapitre
-correspondant (mêmes feuilles, mêmes cellules, mêmes formules), avec un
+Les modèles 03 et 04 (chapitres 15.3 et 15.4) sont retirés depuis le
+31/10/2026 le temps de corriger des erreurs de calcul.
+
+Chaque modèle reprend la structure décrite dans le chapitre
+correspondant, avec un
 jeu de données fictif mais réaliste pour que vous puissiez l'explorer
 immédiatement. Remplacez les données par les vôtres ; les formules
 s'adaptent.
